@@ -1,5 +1,5 @@
-import '../../styles/globals.css'
-// import "tailwindcss/tailwind.css";
+// import '../../styles/globals.css'
+import "../../styles/tailwind.css";
 import store from '../store';
 import { Provider } from 'react-redux';
 import { createWrapper } from 'next-redux-wrapper';
